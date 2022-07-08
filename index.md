@@ -8,7 +8,7 @@ You can download the discord video crasher [here.](https://github.com/VapeLimina
 
 It really just works very simply:
 
-I'm going to ignore the specifying path's and othere stuff from here
+I'm going to ignore the specifying path's and other stuff from here
 
 
 ## ffmpeg -i %videoname%.mp4 "01110101-01110101-01101000-01101000-01101000.mp4" 
