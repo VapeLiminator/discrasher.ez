@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Discord Video Crasher
 
-You can use the [editor on GitHub](https://github.com/VapeLiminator/videocrasherwebsite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can download the discord video crasher [here.](https://github.com/VapeLiminator/VideoCrasher/releases)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### How does it work?
+
+It really just works very simply:
 
 ```markdown
-Syntax highlighted code block
+//I'm going to ignore the specifying path's and othere stuff from here
 
-# Header 1
-## Header 2
-### Header 3
+# ffmpeg -i %videoname%.mp4 "01110101-01110101-01101000-01101000-01101000.mp4" 
+# curl -ko "abc.mp4" "https://cdn.discordapp.com/attachments/965003761485492314/987416285216387142/FemaleAnimatedHyrax-mobile.mp4"
+#(
+#echo file 01110101-01110101-01101000-01101000-01101000.mp4
+#echo file abc.mp4
+#)>"uwu.txt"
+#ffmpeg -f concat -i uwu.txt -codec copy %crashername%.mp4
 
-- Bulleted
-- List
+//And that's the important part! the only thing left is removing the files we've created, and it's done.
 
-1. Numbered
-2. List
+**This has been made with educational purposes, I am not in charge for what you do with this program.**
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VapeLiminator/videocrasherwebsite/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Need help?
+NeumaticYT#6969 for error's found in the program, please do not spam, thanks.
